@@ -1,9 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T19:00:50.408Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.6" etag="ei1_xryXlHFFshA4Yl9H" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T19:23:39.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="DgxlBFMorQDWgw4ERjOW" version="24.0.6" type="github">
   <diagram name="Page-1" id="0yGQrHvvxQVns1i30_Ph">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-1150" width="1100" height="1360" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-45" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-1060" width="1050" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-860" width="1060" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-1" value="Complete how it works Video" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-2" value="Find Suppliers of Khodiya, Pangla, Ghodiya&lt;br&gt;&lt;br&gt;- Get Photos of the products" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1050" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-3" value="Take multiple benefits video of 7-10 seconds" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-1030" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-4" value="Take 1 benefits video of a minute" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-6" value="Before 10th May" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="85" y="-1060" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-8" value="Company Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-9" value="GST Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-10" value="ISO Certification Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-11" value="Startup India Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-12" value="MSME Registration" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-14" value="Govt Registrations - By May 15" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-850" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-15" value="Current Account" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-16" value="Razor Pay changes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-17" value="Site Changes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-690" width="1060" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-19" value="Online Registrations - By May 20th" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-680" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-20" value="Amazon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-21" value="Flipkart" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-22" value="Meesho" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-23" value="Logistic Tie-ups" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-540" width="1060" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-25" value="Sales - By 20th May" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-530" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-26" value="Offline Channels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-27" value="Word of mouth" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-28" value="Commission Agents" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-29" value="Social Media Campaign" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-30" value="Online Channels - Other" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-31" value="Online Channels - Baby corp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="-490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-380" width="1060" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-33" value="Cradle V2 - June 30th" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-370" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-35" value="R &amp;amp; D for the v2 Model&lt;div&gt;- Remote Controlled - Done&lt;br&gt;- App Controlled - Pending&lt;br&gt;- Timer - Done&lt;br&gt;- Screen - Done&lt;br&gt;- Switches to control - Done&lt;br&gt;- Audio Player - Pending&lt;br&gt;- Speakers - Pending&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-330" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-36" value="Nikunj&amp;nbsp;&lt;br&gt;- Elephant Shape cover&lt;br&gt;- Speaker, PCB placement&lt;br&gt;- Any change in the MS plate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-330" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-37" value="Hire consultant for IoT and Apps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-38" value="Check feasibility of Camera module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="624" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-90" width="1060" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-41" value="Optimizations" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-42" value="Alternate source for the casting, Machining, Buffing, Bearing fitting." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-43" value="Alternate source for motor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-44" value="Alternate source for Adapter with and without resistor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-46" value="- PCB Manufacturing&lt;div&gt;- Remote Manufacturing&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-330" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VRAoKzQyHBD2GDp-nSCe-47" value="Zero Manitenance App" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
